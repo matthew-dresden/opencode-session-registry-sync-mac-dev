@@ -1,6 +1,6 @@
 {
   "name": "opencode-session-registry-sync",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "type": "module",
   "description": "OpenCode plugin that auto-registers every session in the shared cross-session registry, syncs renames, and resolves peers by name through find_session.",
   "main": "src/index.ts",

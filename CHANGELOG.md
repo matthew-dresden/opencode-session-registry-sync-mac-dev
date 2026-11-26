@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.0] - 2026-11-26
+
+### Maintenance
+
+- add automerge workflow (mirrored from opencode-cross-session-messaging estate template)
+
 ## [1.0.1] - 2026-11-23
 
 ## [1.0.0] - 2026-11-22
